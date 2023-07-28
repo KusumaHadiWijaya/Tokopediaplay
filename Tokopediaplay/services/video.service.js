@@ -1,0 +1,3 @@
+const Video = require('../models/video.model');
+
+// Implement services for video...

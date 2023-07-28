@@ -1,0 +1,3 @@
+const productService = require('../services/product.service');
+
+// Implement controllers for product...
